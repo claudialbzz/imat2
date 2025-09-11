@@ -1,55 +1,98 @@
 class AFD:
-	def __init__(self, estados, alfabeto, transiciones, estado_inicial, estados_finales):
+	def __init__(self, estados, alfabeto, transiciones, estado_inicial, estados_finales, patron):
 		self.estados = estados
 		self.alfabeto = alfabeto
-		self.transiciones = transiciones # Diccionario de diccionarios: {estado: {letra: siguiente_estado}} OJO: hay que incluir todos los simbolos del diccionario y sus transiciones(si no no funciona xd)
+		self.transiciones = transiciones
 		self.estado_inicial = estado_inicial
 		self.estados_finales = estados_finales
+		self.patron = patron
 
-	def procesar_cadena(self, cadena):
+	def check_palabra(self, cadena_lower):
+		# Verifica que la cadena completa solo contiene símbolos del alfabeto permitido.
+		# Si encuentra un símbolo NO válido, imprime un mensaje de error y devuelve False.
+
+		for c in cadena_lower:
+			if c not in self.alfabeto:
+				print(f"Error: símbolo no válido '{c}' en el texto.")
+				return False
+		return True
+
+	def procesar_texto(self, texto):
+		# Procesa el texto como una cadena continua (sin dividir en palabras).
+		# Devuelve:
+		#  - número de ocurrencias del patrón en el texto (incluyendo solapadas), o
+		#  - 0 si el texto contiene símbolos no válidos.
+		  
+		texto_lower = texto.lower()
+
+		# Validamos que el texto solo tenga símbolos válidos
+		valido = self.check_palabra(texto_lower)
+		if not valido:
+			return 0
+
 		ocurrencias = 0
 		estado_actual = self.estado_inicial
-		for simbolo in cadena:
-			if estado_actual in self.transiciones and simbolo in self.transiciones[estado_actual]:
-				estado_actual = self.transiciones[estado_actual][simbolo]
-			else:
-				return False # Símbolo no válido o transición inexistente
-			if estado_actual == 'q2': # Si llegamos al estado final, contamos una ocurrencia y volvemos al estado inicial
+
+		# Recorremos todo el texto carácter por carácter
+		for simbolo in texto_lower:
+			estado_actual = self.transiciones[estado_actual][simbolo]
+			if estado_actual in self.estados_finales:
 				ocurrencias += 1
-		print(f"La cadena '{cadena}' contiene la subcadena buscada {ocurrencias} veces.")
-		return estado_actual in self.estados_finales
 
-# Un AFD que acepta cadenas que conjetngan -ajo- 
-estados = {'q0', 'q1', 'q2'}
-alfabeto = {'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z', ' '}
+		return ocurrencias
 
-# Solicitamos al usuario que ingrese la cadena que desea buscar
-buscar = str(input("Introduce la cadena que deseas buscar (por ejemplo, 'ajo'): "))
+# Elementos para construir el AFD
 
-# Creamos una lista con los simbolos del alfabeto que aparecen en la cadena a buscar
-caracteres_buscar = []
-for i in buscar:
-    if i not in caracteres_buscar:
-    	caracteres_buscar.append(i)
-    
-# Transiciones: {estado_actual: {símbolo_entrada: siguiente_estado}}
-# Aqui necesitamso manualmente introducir las transiciones dependiendo de la cadena a buscar que hayamos introducido
-transiciones = {
-    'q0': {'a': 'q1', 'b': 'q0', 'c': 'q0', 'd': 'q0', 'e': 'q0', 'f': 'q0', 'g': 'q0', 'h': 'q0', 'i': 'q0', 'j': 'q1', 'k': 'q0', 'l': 'q0', 'm': 'q0', 'n': 'q0', 'o': 'q0', 'p': 'q0', 'q': 'q0', 'r': 'q0', 's': 'q0', 't': 'q0', 'u': 'q0', 'v': 'q0', 'w': 'q0', 'x': 'q0', 'y': 'q0', 'z': 'q0', ' ': 'q0'},
-    'q1': {'j': 'q1', 'a': 'q1', 'b': 'q0', 'c': 'q0', 'd': 'q0', 'e': 'q0', 'f': 'q0', 'g': 'q0', 'h': 'q0', 'i': 'q0', 'k': 'q0', 'l': 'q0', 'm': 'q0', 'n': 'q0', 'o': 'q2', 'p': 'q0', 'q': 'q0', 'r': 'q0', 's': 'q0', 't': 'q0', 'u': 'q0', 'v': 'q0', 'w': 'q0', 'x': 'q0', 'y': 'q0', 'z': 'q0', ' ': 'q0'},
-    'q2': {'o': 'q2', 'a': 'q1', 'b': 'q0', 'c': 'q0', 'd': 'q0', 'e': 'q0', 'f': 'q0', 'g': 'q0', 'h': 'q0', 'i': 'q0', 'j': 'q1', 'k': 'q0', 'l': 'q0', 'm': 'q0', 'n': 'q0', 'p': 'q0', 'q': 'q0', 'r': 'q0', 's': 'q0', 't': 'q0', 'u': 'q0', 'v': 'q0', 'w': 'q0', 'x': 'q0', 'y': 'q0', 'z': 'q0', ' ': 'q0'},
-}
-estado_inicial = 'q0'
-estados_finales = {'q2'}
+# Alfabeto: letras minúsculas + dígitos + espacio
+alfabeto = set("abcdefghijklmnopqrstuvwxyz0123456789 ")
 
-# Crear el autómata
-mi_afd = AFD(estados, alfabeto, transiciones, estado_inicial, estados_finales)
+# Pedimos al usuario que introduzca por terminal la cadena a buscar
+buscar = str(input("Introduce la cadena que deseas buscar: "))
 
-# Probar con algunas cadenas
-# print(f"Cadena 'bba': {mi_afd.procesar_cadena('estar')}") # Debería ser False 
-# print(f"Cadena 'baba': {mi_afd.procesar_cadena('majo')}") # Debería ser True
-# print(f"Cadena 'abb': {mi_afd.procesar_cadena('maja')}") # Debería ser False
+# Validaciones básicas del patrón a buscar
+# Si no hay patron, error y volvemos a pedirlo
+while not buscar:
+	print("Error: la cadena a buscar no puede estar vacía.")
+	buscar = str(input("Introduce la cadena que deseas buscar): "))
 
-# Probemos ahora con una cadena de entrada por terminal
-cadena = str(input("Introduce una cadena para verificar si es aceptada por el AFD: "))
-print(f"Cadena '{cadena}': {mi_afd.procesar_cadena(cadena)}")
+# Si el patron tiene simbolos no permitidos, error
+for ch in buscar:
+	if ch not in alfabeto:
+		print(f"Error: el patrón contiene un símbolo no permitido: '{ch}'")
+
+n = len(buscar)
+
+# Estados q0..qn
+# Sabemos que va a tener que haber un estado mas que simbolos en el patron
+estados = {f"q{i}" for i in range(n+1)}
+estado_inicial = "q0"
+estados_finales = {f"q{n}"}
+
+# Construcción de las transiciones
+transiciones = {}
+
+for i in range(n + 1):
+    # Estado actual q0..qn
+    estado_actual = f"q{i}"
+    transiciones[estado_actual] = {}
+
+    for simbolo in alfabeto:
+        # Vemos a qué estado vamos si leemos este símbolo
+        k = min(n, i + 1)
+        candidato = buscar[:i] + simbolo
+
+        # Buscamos el mayor k que encaje con el patrón
+        while k > 0 and buscar[:k] != candidato[-k:]:
+            k -= 1
+
+        # Guardamos la transición
+        transiciones[estado_actual][simbolo] = f"q{k}"
+
+mi_afd = AFD(estados, alfabeto, transiciones, estado_inicial, estados_finales, buscar)
+
+texto = input("Introduce el texto (cadena continua, puede contener espacios): ")
+resultado = mi_afd.procesar_texto(texto)
+
+print(f"Patrón configurado: '{buscar}'")
+print(f"Texto suministrado: '{texto}'")
+print(f"Número de ocurrencias: {resultado}")
