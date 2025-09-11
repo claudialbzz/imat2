@@ -1,0 +1,3 @@
+[submodule "Discreta"]
+	path = Discreta
+	url = https://github.com/claudialbzz/discreta.git
