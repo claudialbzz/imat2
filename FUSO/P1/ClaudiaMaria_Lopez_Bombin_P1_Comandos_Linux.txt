@@ -1,0 +1,14 @@
+Clave: 202312774
+Letras: c, l, a
+Ejercicio1: pwd > var && cat var
+Ejercicio2: [ ! -d Practica1-202312774 ] && mkdir Practica1-202312774 && echo "Comando realizado correctamente"
+Ejercicio3: cat aleat.txt
+Ejercicio4: cp aleat.txt aleat2.txt && mv aleat2.txt Practica1-202312774 && cd Practica1-202312774 && mv aleat2.txt aleat.txt
+Ejercicio5: mv aleat.txt aleat202312774.txt
+Ejercicio6: ls -lt
+Ejercicio7: rm aleat.txt && cd .. && cp aleat.txt aleat2.txt && mv aleat2.txt Practica1-202312774
+Ejercicio8: cat aleat.txt | wc -l && cat aleat.txt | wc -m
+Ejercicio9: grep -i -c "c" aleat.txt && grep -i -c "l" aleat.txt && grep -i -c "a" aleat.txt
+Ejercicio10: grep -i -o "c" aleat.txt | wc -l && grep -i -o "l" aleat.txt | wc -l && grep -i -o "a" aleat.txt | wc -l
+Ejercicio11: sed -e 's/c/1/gi' -e 's/l/2/gi' -e 's/a/2/gi' aleat.txt
+Ejercicio12: cat aleat.txt |sort|uniq|wc -l 
