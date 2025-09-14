@@ -8,4 +8,5 @@ Los apartados/proyectos que hay son:
     │   ├── Ejercicio 1.pdf
     │   └── Rivercrossing Reflex.ipynb
     └── E2-aspiradora
+        ├── Ejercicio 2.pdf
         └── FIA 25 26 Agentes Reflex.ipynb
