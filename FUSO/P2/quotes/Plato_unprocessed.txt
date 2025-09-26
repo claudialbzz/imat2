@@ -1,0 +1,216 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html>
+<head>
+	<title>Plato Quotes - The Quotations Page</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" >
+<meta name="MSSmartTagsPreventParsing" content="TRUE">
+<LINK REL="shortcut icon" HREF="/favicon.ico" TYPE="image/x-icon">
+<LINK REL="stylesheet" type="text/css" HREF="/qp.css">
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1805249-2']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-1191883280755025",
+    enable_page_level_ads: true
+  });
+</script>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+ 
+<!--end navscript-->
+</head>
+
+
+<body bgcolor="#8CCEF7">
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=54077556871";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<table id="headtable"><tr>
+   <td id="logo">
+<a href='/' title='Return to the Home Page'><img src="/tag3.gif" alt="The Quotations Page" width="200" height="57" vspace="0" border="0"></a>   </td>
+   <td id="search" align="right">
+   	  <form id="searchform" method="GET" action="/search.php">
+      <a href="/search.php">Quotation Search</a> by keyword or author:<br>
+      <input type="text" name="homesearch" size="20" value="">
+	  <input type="submit" name="startsearch" id="startsearch" value="Search">
+	  </form>
+   </td>
+</tr></table>
+ 
+<div id="adbanner" align="center">
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- QP Primary RESPONSIVE TEST -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-1191883280755025"
+     data-ad-slot="3104788725"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+
+<table id="maintable"><tr>
+   <td id="nav" valign="top" nowrap>
+   
+<ul class="navbar">
+<li><a  title="" href="/"> Home </a></li>
+<li><a  title="" href="/weblog/"> Weblog </a></li>
+<li><a  title="" href="/qotd.html"> Quotes of the Day </a></li>
+<li><a  title="" href="/mqotd.html"> Motivational </a></li>
+<li><a id="current" title="You are Here" href="/quotes/"> Author Index </a></li>
+<li><a  title="" href="/subjects/"> Subject Index </a></li>
+<li><a  title="" href="/search.php"> Search </a></li>
+<li><a  title="" href="/random.php"> Random Quotes </a></li>
+<li><a  title="" href="/wotd.html"> Word of the Day </a></li>
+<li><a  title="" href="/books.php"> Book Reviews </a></li>
+<li><a  title="" href="/myquotations.php"> Your Page </a></li>
+</ul>
+
+<ul class="navlist">
+	<li><a class="nav2" href="/contribute.php" title="Contribute quotations for our collection">Contribute Quotes</a></li>
+	<li><a class="nav2" href="/special.php" title="Articles and Special Features">Articles</a></li>
+
+	<li><a class="nav2" href="/useourquotes.php" title="Use our Daily Quotes on your Web page!">Use our Quotes</a></li>
+	<li><a class="nav2" href="/about.html">About this Site</a></li>
+	<li><a class="nav2" href="/faq.php" title="Frequently Asked Questions">FAQ</a></li>
+	<li><a class="nav2" href="/mail.php" title="Send us Email">Contact Us</a><br></li>
+</ul>
+ <a class="nav2" href="http://www.literaturepage.com/"><strong>Read books online</strong></a><br>
+ at our other site:<br>
+ <a class="nav2" href="http://www.literaturepage.com/"><strong>The Literature Page</strong></a>
+	 <p>  </p>
+   </td>
+   <td id="content" valign="top">
+<h1 align="center">Quotations by Author</h1>
+
+<table width="95%" align="center" cellspacing="2" cellpadding="3"><tr><td width="95%" align="center" valign="middle" bgcolor="#B5DEFC">
+<b>Plato  (427 BC - 347 BC) </b><br>
+<i>Greek author & philosopher in Athens</i> <a href="/author.php?author=Plato">[more author details]</a><br>
+</td></tr></table>
+<table width="95%" align="center" cellspacing="2" cellpadding="3">
+<tr>
+<td width="25%" align="left" valign="middle" bgcolor="#B5DEFC"></td>
+<td width="50%" align="center" bgcolor="#B5DEFC">
+ <small>Showing quotations 1 to 20 of 41 total</small>
+</td>
+<td width="25%" align="right" valign="middle" bgcolor="#B5DEFC"><a href="/quotes/Plato/21"><b>Next Page -&gt;</b></a></td>
+</tr>
+</table>
+	 &nbsp;&nbsp;&nbsp;&nbsp; - <b>We have <a href="/books.php?xref=Plato">2 book reviews</a> related to Plato.</b><br>
+ &nbsp;&nbsp;&nbsp;&nbsp; - <a href="http://www.literaturepage.com/authors/Plato.html"><b>Read the works of Plato online</b></a> at <a href="http://www.literaturepage.com">The Literature Page</a><br>
+<dl>
+<dt class="quote"><a title="Click for further information about this quotation" href="/quote/31650.html">Be kind, for everyone you meet is fighting a hard battle.</a> </dt><dd class="author"><div class="icons"><a title="Further information about this quotation" href="/quote/31650.html"><img src="/icon_info.gif" width="16" height="16" alt="[info]" border="0"></a><a title="Add to Your Quotations Page" href="/myquotations.php?add=31650"><img src="/icon_plus.gif" width="16" height="16" alt="[add]" border="0"></a><a title="Email this quotation" href="/quote/31650.html#email"><img src="/icon_email.gif" width="16" height="16" alt="[mail]" border="0"></a><a title="Read notes about this quotation" href="/quote/31650.html#note"><img src="/icon_note.gif" width="16" height="16" alt="[note]" border="0"></a></div><b>Plato</b></dd>
+<dt class="quote"><a title="Click for further information about this quotation" href="/quote/29102.html">Death is not the worst that can happen to men.</a> </dt><dd class="author"><div class="icons"><a title="Further information about this quotation" href="/quote/29102.html"><img src="/icon_info.gif" width="16" height="16" alt="[info]" border="0"></a><a title="Add to Your Quotations Page" href="/myquotations.php?add=29102"><img src="/icon_plus.gif" width="16" height="16" alt="[add]" border="0"></a><a title="Email this quotation" href="/quote/29102.html#email"><img src="/icon_email.gif" width="16" height="16" alt="[mail]" border="0"></a><a title="Read notes about this quotation" href="/quote/29102.html#note"><img src="/icon_note.gif" width="16" height="16" alt="[note]" border="0"></a></div><b>Plato</b></dd>
+<dt class="quote"><a title="Click for further information about this quotation" href="/quote/41832.html">Desires are only the lack of something: and those who have the greatest desires are in a worse condition than those who have none, or very slight ones.</a> </dt><dd class="author"><div class="icons"><a title="Further information about this quotation" href="/quote/41832.html"><img src="/icon_info.gif" width="16" height="16" alt="[info]" border="0"></a><a title="Add to Your Quotations Page" href="/myquotations.php?add=41832"><img src="/icon_plus.gif" width="16" height="16" alt="[add]" border="0"></a><a title="Email this quotation" href="/quote/41832.html#email"><img src="/icon_email.gif" width="16" height="16" alt="[mail]" border="0"></a><a title="Read notes about this quotation" href="/quote/41832.html#note"><img src="/icon_note.gif" width="16" height="16" alt="[note]" border="0"></a></div><b>Plato</b><div class="related"> - More quotations on: [<a href='/subjects/desire/'>Desire</a>] </div>
+</dd>
+<dt class="quote"><a title="Click for further information about this quotation" href="/quote/3036.html">If women are expected to do the same work as men, we must teach them the same things.</a> </dt><dd class="author"><div class="icons"><a title="Further information about this quotation" href="/quote/3036.html"><img src="/icon_info.gif" width="16" height="16" alt="[info]" border="0"></a><a title="Add to Your Quotations Page" href="/myquotations.php?add=3036"><img src="/icon_plus.gif" width="16" height="16" alt="[add]" border="0"></a><a title="Email this quotation" href="/quote/3036.html#email"><img src="/icon_email.gif" width="16" height="16" alt="[mail]" border="0"></a><a title="Read notes about this quotation" href="/quote/3036.html#note"><img src="/icon_note.gif" width="16" height="16" alt="[note]" border="0"></a></div><b>Plato</b><div class="related"> - More quotations on: [<a href='/subjects/men+and+women/'>Men And Women</a>] </div>
+</dd>
+<dt class="quote"><a title="Click for further information about this quotation" href="/quote/29103.html">Ignorance, the root and the stem of every evil.</a> </dt><dd class="author"><div class="icons"><a title="Further information about this quotation" href="/quote/29103.html"><img src="/icon_info.gif" width="16" height="16" alt="[info]" border="0"></a><a title="Add to Your Quotations Page" href="/myquotations.php?add=29103"><img src="/icon_plus.gif" width="16" height="16" alt="[add]" border="0"></a><a title="Email this quotation" href="/quote/29103.html#email"><img src="/icon_email.gif" width="16" height="16" alt="[mail]" border="0"></a><a title="Read notes about this quotation" href="/quote/29103.html#note"><img src="/icon_note.gif" width="16" height="16" alt="[note]" border="0"></a></div><b>Plato</b><div class="related"> - More quotations on: [<a href='/subjects/ignorance/'>Ignorance</a>] </div>
+</dd>
+<dt class="quote"><a title="Click for further information about this quotation" href="/quote/29313.html">Laws are partly formed for the sake of good men, in order to instruct them how they may live on friendly terms with one another, and partly for the sake of those who refuse to be instructed, whose spirit cannot be subdued, or softened, or hindered from plunging into evil.</a> </dt><dd class="author"><div class="icons"><a title="Further information about this quotation" href="/quote/29313.html"><img src="/icon_info.gif" width="16" height="16" alt="[info]" border="0"></a><a title="Add to Your Quotations Page" href="/myquotations.php?add=29313"><img src="/icon_plus.gif" width="16" height="16" alt="[add]" border="0"></a><a title="Email this quotation" href="/quote/29313.html#email"><img src="/icon_email.gif" width="16" height="16" alt="[mail]" border="0"></a><a title="Read notes about this quotation" href="/quote/29313.html#note"><img src="/icon_note.gif" width="16" height="16" alt="[note]" border="0"></a></div><b>Plato</b><div class="related"> - More quotations on: [<a href='/subjects/laws/'>Laws</a>] </div>
+</dd>
+<dt class="quote"><a title="Click for further information about this quotation" href="/quote/29282.html">Man...is a tame or civilized animal; never the less, he requires proper instruction and a fortunate nature, and then of all animals he becomes the most divine and most civilized; but if he be insufficiently or ill- educated he is the most savage of earthly creatures.</a> </dt><dd class="author"><div class="icons"><a title="Further information about this quotation" href="/quote/29282.html"><img src="/icon_info.gif" width="16" height="16" alt="[info]" border="0"></a><a title="Add to Your Quotations Page" href="/myquotations.php?add=29282"><img src="/icon_plus.gif" width="16" height="16" alt="[add]" border="0"></a><a title="Email this quotation" href="/quote/29282.html#email"><img src="/icon_email.gif" width="16" height="16" alt="[mail]" border="0"></a><a title="Read notes about this quotation" href="/quote/29282.html#note"><img src="/icon_note.gif" width="16" height="16" alt="[note]" border="0"></a></div><b>Plato</b></dd>
+<dt class="quote"><a title="Click for further information about this quotation" href="/quote/38810.html">Never discourage anyone... who continually makes progress, no matter how slow. </a> </dt><dd class="author"><div class="icons"><a title="Further information about this quotation" href="/quote/38810.html"><img src="/icon_info.gif" width="16" height="16" alt="[info]" border="0"></a><a title="Add to Your Quotations Page" href="/myquotations.php?add=38810"><img src="/icon_plus.gif" width="16" height="16" alt="[add]" border="0"></a><a title="Email this quotation" href="/quote/38810.html#email"><img src="/icon_email.gif" width="16" height="16" alt="[mail]" border="0"></a><a title="Read notes about this quotation" href="/quote/38810.html#note"><img src="/icon_note.gif" width="16" height="16" alt="[note]" border="0"></a></div><b>Plato</b></dd>
+<dt class="quote"><a title="Click for further information about this quotation" href="/quote/2514.html">Never discourage anyone...who continually makes progress, no matter how slow.</a> </dt><dd class="author"><div class="icons"><a title="Further information about this quotation" href="/quote/2514.html"><img src="/icon_info.gif" width="16" height="16" alt="[info]" border="0"></a><a title="Add to Your Quotations Page" href="/myquotations.php?add=2514"><img src="/icon_plus.gif" width="16" height="16" alt="[add]" border="0"></a><a title="Email this quotation" href="/quote/2514.html#email"><img src="/icon_email.gif" width="16" height="16" alt="[mail]" border="0"></a><a title="Read notes about this quotation" href="/quote/2514.html#note"><img src="/icon_note.gif" width="16" height="16" alt="[note]" border="0"></a></div><b>Plato</b><div class="related"> - More quotations on: [<a href='/subjects/progress/'>Progress</a>] </div>
+</dd>
+<dt class="quote"><a title="Click for further information about this quotation" href="/quote/26945.html">No human thing is of serious importance.</a> </dt><dd class="author"><div class="icons"><a title="Further information about this quotation" href="/quote/26945.html"><img src="/icon_info.gif" width="16" height="16" alt="[info]" border="0"></a><a title="Add to Your Quotations Page" href="/myquotations.php?add=26945"><img src="/icon_plus.gif" width="16" height="16" alt="[add]" border="0"></a><a title="Email this quotation" href="/quote/26945.html#email"><img src="/icon_email.gif" width="16" height="16" alt="[mail]" border="0"></a><a title="Read notes about this quotation" href="/quote/26945.html#note"><img src="/icon_note.gif" width="16" height="16" alt="[note]" border="0"></a></div><b>Plato</b></dd>
+<dt class="quote"><a title="Click for further information about this quotation" href="/quote/39891.html">Only the dead have seen the end of war.</a> </dt><dd class="author"><div class="icons"><a title="Further information about this quotation" href="/quote/39891.html"><img src="/icon_info.gif" width="16" height="16" alt="[info]" border="0"></a><a title="Add to Your Quotations Page" href="/myquotations.php?add=39891"><img src="/icon_plus.gif" width="16" height="16" alt="[add]" border="0"></a><a title="Email this quotation" href="/quote/39891.html#email"><img src="/icon_email.gif" width="16" height="16" alt="[mail]" border="0"></a><a title="Read notes about this quotation" href="/quote/39891.html#note"><img src="/icon_note.gif" width="16" height="16" alt="[note]" border="0"></a></div><b>Plato</b></dd>
+<dt class="quote"><a title="Click for further information about this quotation" href="/quote/29338.html">The price good men pay for indifference to public affairs is to be ruled by evil men.</a> </dt><dd class="author"><div class="icons"><a title="Further information about this quotation" href="/quote/29338.html"><img src="/icon_info.gif" width="16" height="16" alt="[info]" border="0"></a><a title="Add to Your Quotations Page" href="/myquotations.php?add=29338"><img src="/icon_plus.gif" width="16" height="16" alt="[add]" border="0"></a><a title="Email this quotation" href="/quote/29338.html#email"><img src="/icon_email.gif" width="16" height="16" alt="[mail]" border="0"></a><a title="Read notes about this quotation" href="/quote/29338.html#note"><img src="/icon_note.gif" width="16" height="16" alt="[note]" border="0"></a></div><b>Plato</b></dd>
+<dt class="quote"><a title="Click for further information about this quotation" href="/quote/29106.html">There is no such thing as a lover's oath.</a> </dt><dd class="author"><div class="icons"><a title="Further information about this quotation" href="/quote/29106.html"><img src="/icon_info.gif" width="16" height="16" alt="[info]" border="0"></a><a title="Add to Your Quotations Page" href="/myquotations.php?add=29106"><img src="/icon_plus.gif" width="16" height="16" alt="[add]" border="0"></a><a title="Email this quotation" href="/quote/29106.html#email"><img src="/icon_email.gif" width="16" height="16" alt="[mail]" border="0"></a><a title="Read notes about this quotation" href="/quote/29106.html#note"><img src="/icon_note.gif" width="16" height="16" alt="[note]" border="0"></a></div><b>Plato</b></dd>
+<dt class="quote"><a title="Click for further information about this quotation" href="/quote/1068.html">They certainly give very strange names to diseases.</a> </dt><dd class="author"><div class="icons"><a title="Further information about this quotation" href="/quote/1068.html"><img src="/icon_info.gif" width="16" height="16" alt="[info]" border="0"></a><a title="Add to Your Quotations Page" href="/myquotations.php?add=1068"><img src="/icon_plus.gif" width="16" height="16" alt="[add]" border="0"></a><a title="Email this quotation" href="/quote/1068.html#email"><img src="/icon_email.gif" width="16" height="16" alt="[mail]" border="0"></a><a title="Read notes about this quotation" href="/quote/1068.html#note"><img src="/icon_note.gif" width="16" height="16" alt="[note]" border="0"></a></div><b>Plato</b></dd>
+<dt class="quote"><a title="Click for further information about this quotation" href="/quote/9818.html">Thinking is the talking of the soul with itself.</a> </dt><dd class="author"><div class="icons"><a title="Further information about this quotation" href="/quote/9818.html"><img src="/icon_info.gif" width="16" height="16" alt="[info]" border="0"></a><a title="Add to Your Quotations Page" href="/myquotations.php?add=9818"><img src="/icon_plus.gif" width="16" height="16" alt="[add]" border="0"></a><a title="Email this quotation" href="/quote/9818.html#email"><img src="/icon_email.gif" width="16" height="16" alt="[mail]" border="0"></a><a title="Read notes about this quotation" href="/quote/9818.html#note"><img src="/icon_note.gif" width="16" height="16" alt="[note]" border="0"></a></div><b>Plato</b></dd>
+<dt class="quote"><a title="Click for further information about this quotation" href="/quote/25669.html">We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light.</a> </dt><dd class="author"><div class="icons"><a title="Further information about this quotation" href="/quote/25669.html"><img src="/icon_info.gif" width="16" height="16" alt="[info]" border="0"></a><a title="Add to Your Quotations Page" href="/myquotations.php?add=25669"><img src="/icon_plus.gif" width="16" height="16" alt="[add]" border="0"></a><a title="Email this quotation" href="/quote/25669.html#email"><img src="/icon_email.gif" width="16" height="16" alt="[mail]" border="0"></a><a title="Read notes about this quotation" href="/quote/25669.html#note"><img src="/icon_note.gif" width="16" height="16" alt="[note]" border="0"></a></div><b>Plato</b></dd>
+<dt class="quote"><a title="Click for further information about this quotation" href="/quote/1408.html">Wise men talk because they have something to say; fools, because they have to say something.</a> </dt><dd class="author"><div class="icons"><a title="Further information about this quotation" href="/quote/1408.html"><img src="/icon_info.gif" width="16" height="16" alt="[info]" border="0"></a><a title="Add to Your Quotations Page" href="/myquotations.php?add=1408"><img src="/icon_plus.gif" width="16" height="16" alt="[add]" border="0"></a><a title="Email this quotation" href="/quote/1408.html#email"><img src="/icon_email.gif" width="16" height="16" alt="[mail]" border="0"></a><a title="Read notes about this quotation" href="/quote/1408.html#note"><img src="/icon_note.gif" width="16" height="16" alt="[note]" border="0"></a></div><b>Plato</b></dd>
+<dt class="quote"><a title="Click for further information about this quotation" href="/quote/2128.html">You can discover more about a person in an hour of play than in a year of conversation.</a> </dt><dd class="author"><div class="icons"><a title="Further information about this quotation" href="/quote/2128.html"><img src="/icon_info.gif" width="16" height="16" alt="[info]" border="0"></a><a title="Add to Your Quotations Page" href="/myquotations.php?add=2128"><img src="/icon_plus.gif" width="16" height="16" alt="[add]" border="0"></a><a title="Email this quotation" href="/quote/2128.html#email"><img src="/icon_email.gif" width="16" height="16" alt="[mail]" border="0"></a><a title="Read notes about this quotation" href="/quote/2128.html#note"><img src="/icon_note.gif" width="16" height="16" alt="[note]" border="0"></a></div><b>Plato</b><div class="related"> - More quotations on: [<a href='/subjects/conversation/'>Conversation</a>] </div>
+</dd>
+<dt class="quote"><a title="Click for further information about this quotation" href="/quote/24199.html">No evil can happen to a good man, either in life or after death.</a> </dt><dd class="author"><div class="icons"><a title="Further information about this quotation" href="/quote/24199.html"><img src="/icon_info.gif" width="16" height="16" alt="[info]" border="0"></a><a title="Add to Your Quotations Page" href="/myquotations.php?add=24199"><img src="/icon_plus.gif" width="16" height="16" alt="[add]" border="0"></a><a title="Email this quotation" href="/quote/24199.html#email"><img src="/icon_email.gif" width="16" height="16" alt="[mail]" border="0"></a><a title="Read notes about this quotation" href="/quote/24199.html#note"><img src="/icon_note.gif" width="16" height="16" alt="[note]" border="0"></a></div><b>Plato</b>, <i>Dialogues, Apology</i><div class="related"> - More quotations on: [<a href='/subjects/evil/'>Evil</a>] </div>
+</dd>
+<dt class="quote"><a title="Click for further information about this quotation" href="/quote/24217.html">You cannot conceive the many without the one.</a> </dt><dd class="author"><div class="icons"><a title="Further information about this quotation" href="/quote/24217.html"><img src="/icon_info.gif" width="16" height="16" alt="[info]" border="0"></a><a title="Add to Your Quotations Page" href="/myquotations.php?add=24217"><img src="/icon_plus.gif" width="16" height="16" alt="[add]" border="0"></a><a title="Email this quotation" href="/quote/24217.html#email"><img src="/icon_email.gif" width="16" height="16" alt="[mail]" border="0"></a><a title="Read notes about this quotation" href="/quote/24217.html#note"><img src="/icon_note.gif" width="16" height="16" alt="[note]" border="0"></a></div><b>Plato</b>, <i>Dialogues, Parmenides</i></dd>
+
+</dl>
+<table width="95%" align="center" cellspacing="2" cellpadding="3">
+<tr>
+<td width="25%" align="left" valign="middle" bgcolor="#B5DEFC"></td>
+<td width="50%" align="center" bgcolor="#B5DEFC">
+ <small>Showing quotations 1 to 20 of 41 total</small>
+</td>
+<td width="25%" align="right" valign="middle" bgcolor="#B5DEFC"><a href="/quotes/Plato/21"><b>Next Page -&gt;</b></a></td>
+</tr>
+</table>
+	<table width="95%" cellspacing="0" cellpadding="3" align="center">
+<tr>
+<td width="40%" align="left" valign="middle" bgcolor="#B5DEFC"><b>Previous Author:</b> <a href="/quotes/Sylvia_Plath">Sylvia Plath</a></td>
+<td width="40%" align="right" valign="middle" bgcolor="#B5DEFC"><b>Next Author:</b> <a href="/quotes/P._J._Plauger">P. J. Plauger</a></td>
+</tr>
+<tr><td width="97%" colspan="2" align="left" valign="middle" bgcolor="#B5DEFC">
+<b><a href="/quotes/"> Return to Author List </a></b>
+</td></tr>
+</table>
+
+<blockquote>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- QP Bottom Box Responsive -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-1191883280755025"
+     data-ad-slot="8589805966"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</blockquote>
+
+<div class="authorhead">
+<strong>Browse our complete list of 3443 authors by last name:</strong>
+</div>
+<div class="authorletters">
+<a href="/quotes/A.html"><b>A</b></a> &nbsp;<a href="/quotes/B.html"><b>B</b></a> &nbsp;<a href="/quotes/C.html"><b>C</b></a> &nbsp;<a href="/quotes/D.html"><b>D</b></a> &nbsp;<a href="/quotes/E.html"><b>E</b></a> &nbsp;<a href="/quotes/F.html"><b>F</b></a> &nbsp;<a href="/quotes/G.html"><b>G</b></a> &nbsp;<a href="/quotes/H.html"><b>H</b></a> &nbsp;<a href="/quotes/I.html"><b>I</b></a> &nbsp;<a href="/quotes/J.html"><b>J</b></a> &nbsp;<a href="/quotes/K.html"><b>K</b></a> &nbsp;<a href="/quotes/L.html"><b>L</b></a> &nbsp;<a href="/quotes/M.html"><b>M</b></a> &nbsp;<a href="/quotes/N.html"><b>N</b></a> &nbsp;<a href="/quotes/O.html"><b>O</b></a> &nbsp;<a href="/quotes/P.html"><b>P</b></a> &nbsp;<a href="/quotes/Q.html"><b>Q</b></a> &nbsp;<a href="/quotes/R.html"><b>R</b></a> &nbsp;<a href="/quotes/S.html"><b>S</b></a> &nbsp;<a href="/quotes/T.html"><b>T</b></a> &nbsp;<a href="/quotes/U.html"><b>U</b></a> &nbsp;<a href="/quotes/V.html"><b>V</b></a> &nbsp;<a href="/quotes/W.html"><b>W</b></a> &nbsp;<a href="/quotes/X.html"><b>X</b></a> &nbsp;<a href="/quotes/Y.html"><b>Y</b></a> &nbsp;<a href="/quotes/Z.html"><b>Z</b></a> &nbsp;</div>
+
+<br>
+</td>
+
+
+<td id="right" width="165" valign="top" align="center">
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- QP Authors Skyscraper 160 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:160px;height:600px"
+     data-ad-client="ca-pub-1191883280755025"
+     data-ad-slot="6999061514"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</td>
+
+</tr></table>
+<div id="footer">
+(c) 1994-2025 QuotationsPage.com and <a href="http://www.michaelmoncur.com/">Michael Moncur</a>. 
+  All rights reserved.
+   Please read the <a href="/about.html#disclaimer">disclaimer</a>.
+</div>
+
+
+</body>
+</html>
