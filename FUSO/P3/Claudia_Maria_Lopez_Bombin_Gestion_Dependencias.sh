@@ -16,11 +16,11 @@ deactivate
 
 # Creamos el entorno 3.11
 mkdir -p env311
-pyhton3.11 -m venv env311
+python3.11 -m venv env311
 source env311/bin/activate
 
 # Instlamos los paquetes de requirements4_2.txt
-pip install -p requirements4_2.txt
+pip install -r requirements4_2.txt
 
 # Ejecutamos plot_face_recognition.py
 python3.11 plot_face_recognition.py
