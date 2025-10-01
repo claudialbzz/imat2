@@ -1,0 +1,8 @@
+# Este fichero .txt incluye los requisitos de paquetes para poder ejecutar plot_face_recognition
+
+time
+logging
+matplotlib
+shutil
+os
+scikit-learn

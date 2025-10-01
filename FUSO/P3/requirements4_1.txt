@@ -1,0 +1,6 @@
+# Este .txt contiene los requirements para poder ejecutar el fichero .py plot_color_quantization.py
+
+numpy
+matplot.lib
+scikit-learn
+time
