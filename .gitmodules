@@ -4,3 +4,6 @@
 [submodule "Discreta"]
 	path = Discreta
 	url = https://github.com/claudialbzz/Discreta.git
+[submodule "FIA/github"]
+	path = FIA/github
+	url = https://github.com/ICAI-iMAT-FIA/p2-search-agent-roomba-claudialbzz.git
