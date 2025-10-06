@@ -7,3 +7,6 @@
 [submodule "FIA/github"]
 	path = FIA/github
 	url = https://github.com/ICAI-iMAT-FIA/p2-search-agent-roomba-claudialbzz.git
+[submodule "FIA/P1/E2-aspiradora/repo_clase"]
+	path = FIA/P1/E2-aspiradora/repo_clase
+	url = https://github.com/ICAI-iMAT-FIA/p2-search-agent-roomba-claudialbzz.git
