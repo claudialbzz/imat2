@@ -4,25 +4,30 @@ Los apartados/proyectos que hay son:
 
 .
 ├── Guiadas
-│   ├── Color
-│   │   ├── color_string.py
-│   │   ├── input.py
-│   │   ├── main copy.py
-│   │   └── main.py
-│   └── Pandas
-│       ├── Pandas DataFrames Introduction.ipynb
-│       ├── Pandas Exercises Enunciado.ipynb
-│       ├── Pandas Introduction Exercise.ipynb
-│       └── test.py
+│   ├── Color
+│   │   ├── color_string.py
+│   │   ├── input.py
+│   │   ├── main copy.py
+│   │   └── main.py
+│   ├── Pandas
+│   │   ├── Pandas DataFrames Introduction.ipynb
+│   │   ├── Pandas Exercises Enunciado.ipynb
+│   │   ├── Pandas Introduction Exercise.ipynb
+│   │   └── test.py
+│   └── Spotify
+│       ├── analysing_spotify_data_clear.ipynb
+│       ├── analysing_spotify_data_solution.ipynb
+│       ├── data
+│       └── spotify-2023-dirt.csv
 ├── P1
-│   ├── automata_main.py
-│   └── search_main.py
+│   ├── automata_main.py
+│   └── search_main.py
 ├── P2
-│   ├── Datasets
-│   ├── Práctica 2 - Introducción a pandas.pdf
-│   ├── airbnb.csv
-│   ├── airbnb_main.py
-│   └── population.csv
+│   ├── Datasets
+│   ├── Práctica 2 - Introducción a pandas.pdf
+│   ├── airbnb.csv
+│   ├── airbnb_main.py
+│   └── population.csv
 └── README.txt
 
 
