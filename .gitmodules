@@ -7,3 +7,6 @@
 [submodule "FUSO"]
     path = FUSO
     url = https://github.com/claudialbzz/FUSO.git
+[submodule "Adquisicion"]
+	path = Adquisicion
+	url = https://github.com/claudialbzz/Adquisicion.git
