@@ -10,3 +10,6 @@
 [submodule "Adquisicion"]
 	path = Adquisicion
 	url = https://github.com/claudialbzz/Adquisicion.git
+[submodule "Visualizacion-sub"]
+	path = Visualizacion
+	url = https://github.com/claudialbzz/Visualizacion.git
