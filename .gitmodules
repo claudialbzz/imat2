@@ -1,12 +1,9 @@
-[submodule "discreta"]
-	path = discreta
-	url = https://github.com/claudialbzz/discreta.git
 [submodule "Discreta"]
-	path = Discreta
-	url = https://github.com/claudialbzz/Discreta.git
-[submodule "FUSO"]
-	path = FUSO
-	url = https://github.com/claudialbzz/FUSO.git
+    path = Discreta
+    url = https://github.com/claudialbzz/Discreta.git
 [submodule "FIA"]
-	path = FIA
-	url = https://github.com/claudialbzz/FIA.git
+    path = FIA
+    url = https://github.com/claudialbzz/FIA.git
+[submodule "FUSO"]
+    path = FUSO
+    url = https://github.com/claudialbzz/FUSO.git
