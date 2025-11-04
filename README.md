@@ -19,6 +19,13 @@ El **Grado en Ingeniería Matemática (iMAT)** de ICAI es un programa interdisci
 - 🎵 Análisis de datasets complejos (Spotify)
 - 📊 Técnicas de limpieza y transformación
 
+### 📘 [Ecuaciones Diferenciales](/EDO/)
+*Modelización y análisis de sistemas dinámicos continuos*
+- 📈 Ecuaciones diferenciales ordinarias (EDO) y sistemas lineales
+- ⚙️ Métodos numéricos: Euler, Runge–Kutta y estabilidad
+- 🧮 Transformada de Laplace y resolución analítica
+- 🌊 Aplicaciones a fenómenos físicos, biológicos y de ingeniería
+
 ### 🧠 [Fundamentos de la IA](/Fundamentos-IA/)
 *Conceptos fundamentales y algoritmos de inteligencia artificial*
 - 🔍 Algoritmos de búsqueda y resolución de problemas
@@ -54,6 +61,7 @@ El **Grado en Ingeniería Matemática (iMAT)** de ICAI es un programa interdisci
 ```
 iMAT-2/
 ├── Adquisicion-Datos/           # Técnicas de adquisición y procesamiento
+├── Ecuaciones-Diferenciales/    # Fundamentos matematicos diferenciales
 ├── Fundamentos-IA/              # Algoritmos de inteligencia artificial  
 ├── Sistemas-Operativos/         # Arquitectura de sistemas operativos
 ├── Matematica-Discreta/         # Fundamentos matemáticos discretos
