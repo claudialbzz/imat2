@@ -13,3 +13,6 @@
 [submodule "Visualizacion-sub"]
 	path = Visualizacion
 	url = https://github.com/claudialbzz/Visualizacion.git
+[submodule "EDO"]
+	path = EDO
+	url = https://github.com/claudialbzz/EDO.git
