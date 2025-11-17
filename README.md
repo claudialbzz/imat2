@@ -156,4 +156,3 @@ Estudiante de **Ingeniería Matemática (iMAT)** en **ICAI** con interés en:
 > — *Galileo Galilei*
 
 🧭 **Keep learning. Keep building. Keep exploring.**
-```
