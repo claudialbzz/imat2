@@ -12,42 +12,42 @@ El **Grado en Ingeniería Matemática (iMAT)** de ICAI es un programa interdisci
 
 ## 📚 Asignaturas Incluidas
 
-### 🔍 [Adquisición de Datos](/Adquisicion-Datos/)
+### 🔍 [Adquisición de Datos](https://github.com/claudialbzz/Adquisicion)
 *Técnicas para obtener, limpiar y preparar datos desde múltiples fuentes*
 - 🐼 Manipulación avanzada de DataFrames con pandas
 - 🤖 Procesamiento automatizado de datos
 - 🎵 Análisis de datasets complejos (Spotify)
 - 📊 Técnicas de limpieza y transformación
 
-### 📘 [Ecuaciones Diferenciales](/EDO/)
+### 📘 [Ecuaciones Diferenciales](https://github.com/claudialbzz/EDO.git)
 *Modelización y análisis de sistemas dinámicos continuos*
 - 📈 Ecuaciones diferenciales ordinarias (EDO) y sistemas lineales
 - ⚙️ Métodos numéricos: Euler, Runge–Kutta y estabilidad
 - 🧮 Transformada de Laplace y resolución analítica
 - 🌊 Aplicaciones a fenómenos físicos, biológicos y de ingeniería
 
-### 🧠 [Fundamentos de la IA](/Fundamentos-IA/)
+### 🧠 [Fundamentos de la IA](https://github.com/claudialbzz/FIA.git))
 *Conceptos fundamentales y algoritmos de inteligencia artificial*
 - 🔍 Algoritmos de búsqueda y resolución de problemas
 - 📈 Machine Learning supervisado y no supervisado
 - 🎯 Sistemas expertos y representación del conocimiento
 - 🧩 Procesamiento de lenguaje natural
 
-### 💻 [Fundamentos de Sistemas Operativos](/Sistemas-Operativos/)
+### 💻 [Fundamentos de Sistemas Operativos](https://github.com/claudialbzz/FUSO.git))
 *Arquitectura interna y funcionamiento de sistemas operativos*
 - ⚙️ Gestión de procesos y planificación de CPU
 - 💾 Administración de memoria y sistemas de archivos
 - 🔄 Sincronización y comunicación entre procesos
 - 🐧 Programación en entornos Unix/Linux
 
-### 🔢 [Matemática Discreta](/Matematica-Discreta/)
+### 🔢 [Matemática Discreta](https://github.com/claudialbzz/Discreta.git)
 *Fundamentos matemáticos de la ciencia de la computación*
 - 🧩 Teoría de conjuntos y relaciones
 - 🔗 Lógica matemática y métodos de demostración
 - 📊 Combinatoria y técnicas de conteo
 - 🪮 Teoría de grafos y aplicaciones
 
-### 📊 [Visualización de Datos](/Visualizacion-Datos/)
+### 📊 [Visualización de Datos](https://github.com/claudialbzz/Visualizacion.git))
 *Comunicación efectiva a través de representaciones visuales*
 - 📈 Fundamentos del diseño visual
 - 🎨 Librerías de visualización (Matplotlib, Seaborn, Plotly)
@@ -136,9 +136,9 @@ cd Fundamentos-IA/Practicas/Principales/P2-Clasificacion/
 
 ¿Interesado en discutir algún proyecto, colaborar en investigación o compartir ideas sobre ingeniería matemática?
 
-📧 **Contacto**: [tu-email@universidad.es](mailto:tu-email@universidad.es)  
-🔗 **LinkedIn**: [linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil)  
-🐙 **GitHub**: [github.com/tuusuario](https://github.com/tuusuario)
+📧 **Contacto**: [claudialbombin@alu.icai.comillas.edu](mailto:claudialbombin@alu.icai.comillas.edu)  
+🔗 **LinkedIn**: [www.linkedin.com/in/claudia-lopez-bombin](www.linkedin.com/in/claudia-lopez-bombin)  
+🐙 **GitHub**: [github.com/claudialbzz](https://github.com/claudialbzz)
 
 ---
 
